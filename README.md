@@ -3,3 +3,6 @@ This is Javscript browser based game. The rules are simple. In this game each pl
 
 Screenshots 
 <a href="https://github.com/PyArchitect/JavaScript_Browser_PigGame/blob/master/PigGame1.png?raw=true" target="_blank"><img src="https://github.com/PyArchitect/JavaScript_Browser_PigGame/blob/master/PigGame1.png?raw=true" alt="history" style="max-width:100%;"></a>
+<br>
+Text
+<a href="https://github.com/PyArchitect/JavaScript_Browser_PigGame/blob/master/PigGame2.png?raw=true" target="_blank"><img src="https://github.com/PyArchitect/JavaScript_Browser_PigGame/blob/master/PigGame2.png?raw=true" alt="history" style="max-width:100%;"></a>
